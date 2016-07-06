@@ -4,9 +4,9 @@ Just to keep some java examples that run in uhc backend for java
 
 ## Trying out:
 
-### Run examples: `make run-java`
+ * Run examples: `make run-java`
 
-### Compile examples (needs UHC installed): ``make gen-java`
+ * Compile examples (needs UHC installed): ``make gen-java`
 
 ## Examples:
 
