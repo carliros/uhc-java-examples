@@ -3,7 +3,7 @@ HASKELL-SRC = haskell-src
 JAVA-TARGET = java-generated
 JARS = .:./../jars/libbase-3.0.0.0.jar:./../jars/libjazy.jar:./../jars/libuhcbase-1.1.9.5.jar
 
-EXAMPLE-NAMES = GhcVm.hs Problem1.hs Problem2.hs
+EXAMPLE-NAMES = GhcVm.hs Problems1_10.hs
 
 .SECONDEXPANSION:
 
